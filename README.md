@@ -8,12 +8,12 @@ A group project done with four partners in Eclipse. It involved an agile (SCRUM)
 
 ### Paint Interface
 
-![Paint Interface](images/paint.png)
+![Paint Interface](Paint/images/paint.png)
 
 ### Paint with Shapes
 
-![Paint Shapes](images/shapes.png)
+![Paint Shapes](Paint/images/shapes.png)
 
 ### Color Chooser
 
-![Color Switch](images/color.png)
+![Color Switch](Paint/images/color.png)

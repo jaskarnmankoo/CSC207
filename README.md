@@ -6,7 +6,7 @@ This repository contains a project from CSC207: Software Design course taken at 
 
 A group project done with four partners in Eclipse. It involved an agile (SCRUM) development approach alongside the version control GIT. The program uses the Model-View-Controller (MVC) Pattern, Object-Oriented Programming (OOP), and Swing Components (JFrames, JObjects, etc.) to create a miniature Microsoft Paint.
 
-## Interface
+## Interfaces
 
 * [Main](#main)
 * [Main with Shapes](#main-with-shapes)
